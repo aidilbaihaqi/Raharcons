@@ -1,0 +1,7 @@
+How to access Raharcons website :
+1. Make sure PHP is installed on your computer, at least version 7.4
+2. Install laravel 9.0 (latest version) with composer or other terminal
+3. Make a database in your local database (phpMyAdmin,MySQLWorkbench, MariaDB, etc) with the name 'raharcons'
+4. Import sql file to newly created database
+5. Open a terminal which leads to the website directory
+6. Run command 'php artisan serve' to run local serve
